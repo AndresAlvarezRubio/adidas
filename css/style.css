@@ -68,10 +68,10 @@ header nav ul{
       fill: white;
   }
 .icon-menu li:hover svg{
-     fill: black;
+     fill: #787878;
  }
 .icon-menu li:hover p{
-    color: black;
+    color: #787878;
 }
 .icon-menu li p{
     transition-duration: .3s;
@@ -94,9 +94,37 @@ header picture img {
 
 /*Formulario*/
 .container-form {
+    display: block;
+    justify-content: space-between;
+    gap: 20px;
     padding: 50px;
-    max-width: 800px;
+    max-width: 920px;
     margin: auto;
+}
+.container-form .select-form{
+    display: block;
+    width: 100%;
+    min-width: 200px;
+    padding: 30px;
+    margin-bottom: 50px;
+    border-radius: 30px;
+    border: 1px solid #787878;
+}
+.select-form form {
+    height: 100%;
+    padding-bottom: 50px;
+}
+.container-form .select-form input[type="submit"] {
+    position: absolute;
+    bottom: 40px;
+}
+.select-form h2 {
+    margin-bottom: 20px;
+}
+@media(min-width:768px) {
+    .container-form {
+        display: flex;
+    }
 }
 .container-form label, .container-form input {
     display: block;
@@ -109,7 +137,7 @@ header picture img {
 form input {
     width: 100%;
     border-radius: 10px;
-    border: 1px solid black;
+    border: 1px solid #787878;
     padding: 10px;
     margin-top: 10px;
 }
@@ -182,6 +210,11 @@ main>div .wrap-slider .gallery{
     width: 100px;
     margin-top: 0;
 }
+.gallery .product-details-description {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
 @media (min-width:768px) {
     .gallery article {
         min-width: 60%;
@@ -192,6 +225,64 @@ main>div .wrap-slider .gallery{
         min-width: 40%;
     }
 }
+
+
+/*Cesta*/
+.cesta {
+    margin: 10px auto;
+}
+.cesta table{
+    min-width: 800px;
+    overflow: scroll;
+    margin: 25px auto;
+}
+.cesta table tr,.cesta table td {
+    border: 1px solid black;
+    border-width: 1px 0px 0px 1px;
+    padding: 15px 10px;
+}
+.cesta table tr td:last-child {
+    border-right: 1px solid black;
+}
+.cesta table tr:last-child td {
+    border-bottom: 1px solid black;
+}
+.cesta table tr td form {
+    display: flex;
+    gap: 10px;
+}
+.cesta input {
+    margin-top: 0;
+}
+.cesta .resultados-carrito {
+    display: flex;
+    max-width: 800px;
+    margin: auto;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+}
+.cesta .resultados-carrito div {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.cesta .resultados-carrito input,.cesta #delete-product {
+    background-color: red;
+    color: white;
+    border: 1px solid red;
+    transition-duration: .3s;
+    cursor: pointer;
+}
+.cesta .resultados-carrito input:hover,.cesta #delete-product:hover {
+    background-color: white;
+    color: red;
+}
+.cesta th {
+    padding-bottom: 20px;
+}
+
+
 
 
 /*VIDEO*/
