@@ -8,11 +8,9 @@
             <div class="wrap-slider">
                 <div class="gallery">
                     <article>
-                        <a href="#">
-                            <picture>
-                                <img src="media/malla-corta-mujer-rosa-adidas.webp" alt="">
-                            </picture>
-                        </a>
+                        <picture>
+                            <img src="media/malla-corta-mujer-rosa-adidas.webp" alt="">
+                        </picture>
                         <div class="product-details">
                             <div class="product-details-title">
                                 <h3>Malla Corta</h3>
@@ -34,11 +32,9 @@
                         </div>
                     </article>
                     <article>
-                        <a href="#">
-                            <picture>
-                                <img src="media/malla-corta-mujer-rosa-adidas.webp" alt="">
-                            </picture>
-                        </a>
+                        <picture>
+                            <img src="media/malla-corta-mujer-rosa-adidas.webp" alt="">
+                        </picture>
                         <div class="product-details">
                             <div class="product-details-title">
                                 <h3>Malla Corta</h3>
@@ -60,11 +56,9 @@
                         </div>
                     </article>
                     <article>
-                        <a href="#">
-                            <picture>
-                                <img src="media/malla-corta-mujer-rosa-adidas.webp" alt="">
-                            </picture>
-                        </a>
+                        <picture>
+                            <img src="media/malla-corta-mujer-rosa-adidas.webp" alt="">
+                        </picture>
                         <div class="product-details">
                             <div class="product-details-title">
                                 <h3>Malla Corta</h3>
@@ -85,11 +79,9 @@
                         </div>
                     </article>
                     <article>
-                        <a href="#">
-                            <picture>
-                                <img src="media/malla-corta-mujer-rosa-adidas.webp" alt="">
-                            </picture>
-                        </a>
+                        <picture>
+                            <img src="media/malla-corta-mujer-rosa-adidas.webp" alt="">
+                        </picture>
                         <div class="product-details">
                             <div class="product-details-title">
                                 <h3>Malla Corta</h3>
@@ -110,11 +102,9 @@
                         </div>
                     </article>
                     <article>
-                        <a href="#">
-                            <picture>
-                                <img src="media/malla-corta-mujer-rosa-adidas.webp" alt="">
-                            </picture>
-                        </a>
+                        <picture>
+                            <img src="media/malla-corta-mujer-rosa-adidas.webp" alt="">
+                        </picture>
                         <div class="product-details">
                             <div class="product-details-title">
                                 <h3>Malla Corta</h3>
@@ -135,11 +125,9 @@
                         </div>
                     </article>
                     <article>
-                        <a href="#">
-                            <picture>
-                                <img src="media/malla-corta-mujer-rosa-adidas.webp" alt="">
-                            </picture>
-                        </a>
+                        <picture>
+                            <img src="media/malla-corta-mujer-rosa-adidas.webp" alt="">
+                        </picture>
                         <div class="product-details">
                             <div class="product-details-title">
                                 <h3>Malla Corta</h3>
@@ -166,11 +154,9 @@
             <div class="wrap-slider">
                 <div class="gallery">
                     <article>
-                        <a href="#">
-                            <picture>
-                                <img src="media/abrigo-hombre-gris-adidas.webp" alt="">
-                            </picture>
-                        </a>
+                        <picture>
+                            <img src="media/abrigo-hombre-gris-adidas.webp" alt="">
+                        </picture>
                         <div class="product-details">
                             <div class="product-details-title">
                                 <h3>Malla Corta</h3>
@@ -192,11 +178,9 @@
                         </div>
                     </article>
                     <article>
-                        <a href="#">
-                            <picture>
-                                <img src="media/abrigo-hombre-gris-adidas.webp" alt="">
-                            </picture>
-                        </a>
+                        <picture>
+                            <img src="media/abrigo-hombre-gris-adidas.webp" alt="">
+                        </picture>
                         <div class="product-details">
                             <div class="product-details-title">
                                 <h3>Malla Corta</h3>
@@ -218,11 +202,9 @@
                         </div>
                     </article>
                     <article>
-                        <a href="#">
-                            <picture>
-                                <img src="media/abrigo-hombre-gris-adidas.webp" alt="">
-                            </picture>
-                        </a>
+                        <picture>
+                            <img src="media/abrigo-hombre-gris-adidas.webp" alt="">
+                        </picture>
                         <div class="product-details">
                             <div class="product-details-title">
                                 <h3>Malla Corta</h3>
@@ -243,11 +225,9 @@
                         </div>
                     </article>
                     <article>
-                        <a href="#">
-                            <picture>
-                                <img src="media/abrigo-hombre-gris-adidas.webp" alt="">
-                            </picture>
-                        </a>
+                        <picture>
+                            <img src="media/abrigo-hombre-gris-adidas.webp" alt="">
+                        </picture>
                         <div class="product-details">
                             <div class="product-details-title">
                                 <h3>Malla Corta</h3>
@@ -268,11 +248,9 @@
                         </div>
                     </article>
                     <article>
-                        <a href="#">
-                            <picture>
-                                <img src="media/abrigo-hombre-gris-adidas.webp" alt="">
-                            </picture>
-                        </a>
+                        <picture>
+                            <img src="media/abrigo-hombre-gris-adidas.webp" alt="">
+                        </picture>
                         <div class="product-details">
                             <div class="product-details-title">
                                 <h3>Malla Corta</h3>
@@ -293,11 +271,9 @@
                         </div>
                     </article>
                     <article>
-                        <a href="#">
-                            <picture>
-                                <img src="media/abrigo-hombre-gris-adidas.webp" alt="">
-                            </picture>
-                        </a>
+                        <picture>
+                            <img src="media/abrigo-hombre-gris-adidas.webp" alt="">
+                        </picture>
                         <div class="product-details">
                             <div class="product-details-title">
                                 <h3>Malla Corta</h3>
@@ -324,11 +300,9 @@
             <div class="wrap-slider">
                 <div class="gallery">
                     <article>
-                        <a href="#">
-                            <picture>
-                                <img src="media/infantil-unisex-camiseta-verde.avif" alt="">
-                            </picture>
-                        </a>
+                        <picture>
+                            <img src="media/infantil-unisex-camiseta-verde.avif" alt="">
+                        </picture>
                         <div class="product-details">
                             <div class="product-details-title">
                                 <h3>Malla Corta</h3>
@@ -350,11 +324,9 @@
                         </div>
                     </article>
                     <article>
-                        <a href="#">
-                            <picture>
-                                <img src="media/infantil-unisex-camiseta-verde.avif" alt="">
-                            </picture>
-                        </a>
+                        <picture>
+                            <img src="media/infantil-unisex-camiseta-verde.avif" alt="">
+                        </picture>
                         <div class="product-details">
                             <div class="product-details-title">
                                 <h3>Malla Corta</h3>
@@ -376,11 +348,9 @@
                         </div>
                     </article>
                     <article>
-                        <a href="#">
-                            <picture>
-                                <img src="media/infantil-unisex-camiseta-verde.avif" alt="">
-                            </picture>
-                        </a>
+                        <picture>
+                            <img src="media/infantil-unisex-camiseta-verde.avif" alt="">
+                        </picture>
                         <div class="product-details">
                             <div class="product-details-title">
                                 <h3>Malla Corta</h3>
@@ -401,11 +371,9 @@
                         </div>
                     </article>
                     <article>
-                        <a href="#">
-                            <picture>
-                                <img src="media/infantil-unisex-camiseta-verde.avif" alt="">
-                            </picture>
-                        </a>
+                        <picture>
+                            <img src="media/infantil-unisex-camiseta-verde.avif" alt="">
+                        </picture>
                         <div class="product-details">
                             <div class="product-details-title">
                                 <h3>Malla Corta</h3>
@@ -426,11 +394,9 @@
                         </div>
                     </article>
                     <article>
-                        <a href="#">
-                            <picture>
-                                <img src="media/infantil-unisex-camiseta-verde.avif" alt="">
-                            </picture>
-                        </a>
+                        <picture>
+                            <img src="media/infantil-unisex-camiseta-verde.avif" alt="">
+                        </picture>
                         <div class="product-details">
                             <div class="product-details-title">
                                 <h3>Malla Corta</h3>
@@ -451,11 +417,9 @@
                         </div>
                     </article>
                     <article>
-                        <a href="#">
-                            <picture>
-                                <img src="media/infantil-unisex-camiseta-verde.avif" alt="">
-                            </picture>
-                        </a>
+                        <picture>
+                            <img src="media/infantil-unisex-camiseta-verde.avif" alt="">
+                        </picture>
                         <div class="product-details">
                             <div class="product-details-title">
                                 <h3>Malla Corta</h3>
@@ -482,11 +446,9 @@
             <div class="wrap-slider">
                 <div class="gallery">
                     <article>
-                        <a href="#">
-                            <picture>
-                                <img src="media/zapatilla-adizero-boston.webp" alt="">
-                            </picture>
-                        </a>
+                        <picture>
+                            <img src="media/zapatilla-adizero-boston.webp" alt="">
+                        </picture>
                         <div class="product-details">
                             <div class="product-details-title">
                                 <h3>Malla Corta</h3>
@@ -508,11 +470,9 @@
                         </div>
                     </article>
                     <article>
-                        <a href="#">
-                            <picture>
-                                <img src="media/zapatilla-adizero-boston.webp" alt="">
-                            </picture>
-                        </a>
+                        <picture>
+                            <img src="media/zapatilla-adizero-boston.webp" alt="">
+                        </picture>
                         <div class="product-details">
                             <div class="product-details-title">
                                 <h3>Malla Corta</h3>
@@ -534,11 +494,9 @@
                         </div>
                     </article>
                     <article>
-                        <a href="#">
-                            <picture>
-                                <img src="media/zapatilla-adizero-boston.webp" alt="">
-                            </picture>
-                        </a>
+                        <picture>
+                            <img src="media/zapatilla-adizero-boston.webp" alt="">
+                        </picture>
                         <div class="product-details">
                             <div class="product-details-title">
                                 <h3>Malla Corta</h3>
@@ -559,11 +517,9 @@
                         </div>
                     </article>
                     <article>
-                        <a href="#">
-                            <picture>
-                                <img src="media/zapatilla-adizero-boston.webp" alt="">
-                            </picture>
-                        </a>
+                        <picture>
+                            <img src="media/zapatilla-adizero-boston.webp" alt="">
+                        </picture>
                         <div class="product-details">
                             <div class="product-details-title">
                                 <h3>Malla Corta</h3>
@@ -584,11 +540,9 @@
                         </div>
                     </article>
                     <article>
-                        <a href="#">
-                            <picture>
-                                <img src="media/zapatilla-adizero-boston.webp" alt="">
-                            </picture>
-                        </a>
+                        <picture>
+                            <img src="media/zapatilla-adizero-boston.webp" alt="">
+                        </picture>
                         <div class="product-details">
                             <div class="product-details-title">
                                 <h3>Malla Corta</h3>
@@ -609,11 +563,9 @@
                         </div>
                     </article>
                     <article>
-                        <a href="#">
-                            <picture>
-                                <img src="media/zapatilla-adizero-boston.webp" alt="">
-                            </picture>
-                        </a>
+                        <picture>
+                            <img src="media/zapatilla-adizero-boston.webp" alt="">
+                        </picture>
                         <div class="product-details">
                             <div class="product-details-title">
                                 <h3>Malla Corta</h3>

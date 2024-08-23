@@ -24,5 +24,6 @@ if(isset($_SESSION['user'])){
 <?php
 }else{
     header('Location: login.php?mensaje=No tienes permiso para acceder a esta página');
+
 }
     ?>

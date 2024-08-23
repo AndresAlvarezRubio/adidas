@@ -15,7 +15,9 @@ session_start();
     <header>
         <div class="top-menu">
             <picture>
-                <img src="media/logo-adidas.webp" alt="Logo Adidas">
+                <a href="index.php">
+                    <img src="media/logo-adidas.webp" alt="Logo Adidas">
+                </a>
             </picture>
             <nav class="icon-menu">
                 <ul>

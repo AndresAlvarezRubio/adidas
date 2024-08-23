@@ -63,6 +63,9 @@ header nav ul{
 .icon-menu li:hover{
      background-color: white;
  }
+.icon-menu li:hover a {
+    color: black;
+}
 .icon-menu li svg{
       transition-duration: .3s;
       fill: white;
@@ -145,10 +148,10 @@ form .boton {
     background-color: white;
     text-align: center;
     cursor: pointer;
-    transition-duration: .3s;
+    transition-duration: .6s;
 }
 form .boton:hover {
-    background-color: pink;
+    border-radius: 50px;
 }
 form label {
     display: flex;
@@ -161,15 +164,27 @@ form label {
 main>div .wrap-slider .gallery{
     display: flex;
     width: 100%;
+    gap: 15px;
+    padding: 20px;
     overflow: scroll;
+    background-color: white;
+}
+main #hombre .wrap-slider .gallery,main #calzado .wrap-slider .gallery {
+    flex-direction: row-reverse;
 }
 .gallery article {
     min-width: 80%;
+    border-radius: 30px;
+    overflow: hidden;
 }
-.gallery article a, .gallery article a picture{
+.product-details-description p:nth-child(2) {
+    font-size: 32px;
+    font-weight: bold;
+}
+.gallery article picture{
     display: block;
     width: 100%;
-    height: 600px;
+    height: 400px;
 }
 .gallery picture img {
     display: block;
@@ -195,10 +210,16 @@ main>div .wrap-slider .gallery{
     transform: translate(-50%,0);
     backdrop-filter: blur(10px);
     border: 1px solid white;
+    transition-duration: .3s;
+    pointer-events: none;
+    opacity: 0;
+}
+.gallery picture:hover~.product-details, .gallery .product-details:hover {
+    pointer-events: initial;
+    opacity: 1;
 }
 .gallery h3 {
     font-size: 24px;
-    margin-bottom: 10px;
 }
 .gallery p {
     margin-bottom: 5px
@@ -207,29 +228,47 @@ main>div .wrap-slider .gallery{
     gap: 10px;
 }
 .gallery form label input{
-    width: 100px;
+    width: 50px;
     margin-top: 0;
 }
 .gallery .product-details-description {
-    display: flex;
-    justify-content: space-between;
     margin-bottom: 15px;
 }
 @media (min-width:768px) {
+    .gallery .product-details-description {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-end;
+    }
+    .gallery article picture{
+        height: 600px;
+    }
     .gallery article {
         min-width: 60%;
     }
 }
 @media (min-width:1024px) {
     .gallery article {
-        min-width: 40%;
+        min-width: 30%;
+
+    }
+    .gallery article picture{
+        height: 600px;
+    }
+
+    .gallery .product-details {
+        pointer-events: initial;
+        opacity: 1;
     }
 }
+
+
 
 
 /*Cesta*/
 .cesta {
     margin: 10px auto;
+    padding: 20px;
 }
 .cesta table{
     min-width: 800px;
@@ -267,6 +306,14 @@ main>div .wrap-slider .gallery{
     align-items: center;
     gap: 20px;
 }
+.cesta .resultados-carrito a {
+    font-size: 14px;
+    text-decoration: none;
+    padding: 11px 15px;
+    border-radius: 10px;
+    background-color: lightblue;
+    color: #333773;
+}
 .cesta .resultados-carrito input,.cesta #delete-product {
     background-color: red;
     color: white;
@@ -283,58 +330,31 @@ main>div .wrap-slider .gallery{
 }
 
 
+/*FINALIZAR COMPRA*/
+.form-payment {
+    display: block;
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+}
+.form-payment h1 {
+    margin-top: 30px;
+}
+.form-payment label{
+    display: block;
+    margin-top: 20px;
+}
+.form-payment .pay-method {
+    display: flex;
+    margin: 20px 0;
+    gap: 15px;
+}
+
 
 
 /*VIDEO*/
 .video,video {
     display: block;
+    max-width: 100%;
     width: 100%;
 }
-/*Codigo Login*/
-/*.bloque_Form{*/
-/*    width: 100%;*/
-/*}*/
-
-/*.bloque_log{*/
-/*    display: flex;*/
-/*    flex-direction: column;*/
-/*    justify-content: center;*/
-/*    align-items: center;*/
-/*    width: 100%;*/
-/*    height: 50px;*/
-/*    padding: 5px;*/
-/*}*/
-
-/*.bloque_log input{*/
-/*    width: 200px;*/
-/*    height: 30px;*/
-/*}*/
-
-/*#botonEnviar, #botonBorrar{*/
-/*    width: 65px;*/
-/*    height: 30px;*/
-/*    background-color: saddlebrown;*/
-/*    color: white;*/
-/*}*/
-
-/*section{*/
-/*    width: 100%;*/
-/*    height: 100vh;*/
-/*    display: flex;*/
-/*    justify-content: center;*/
-/*    align-items: center;*/
-/*}*/
-
-/*section div{*/
-/*    display: flex;*/
-/*    flex-direction: column;*/
-/*    justify-content: center;*/
-/*    align-items: center;*/
-/*    width: 500px;*/
-/*    height: 300px;*/
-/*    border: 1px solid black;*/
-/*    background-color: bisque;*/
-/*}*/
-
-
-
